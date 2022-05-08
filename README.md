@@ -25,9 +25,8 @@
 ### Preview
 
 <div>
-   <img src="./image/paginaDesktop.png" width="800px" />
-   <img src="./image/Pagina1.png" width="400px" />
-   <img src="./image/paginaMobile.png" width="400px" />
+   <img src="./Assets/imgs/Homeyou.png" width="800px" />
+   <img src="./Assets/imgs/Homeyou%20(Mobile).png" width="400px" />
 </div>
 
 # :computer: Tecnologias
@@ -56,7 +55,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
     </td>
     <td align="center">
       <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2">
-        <img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width="100px;" alt="Iuri"/>
+        <img src="./Assets/imgs/iuricode%202.png" width="100px;" alt="Iuri"/>
         <br />
         <sub>
           <b>Iuri</b>
